@@ -1,0 +1,5 @@
+Server:
+  port: 4500
+myCustomVarTree:
+  authCode: xyz458
+  devName: "Luca"
